@@ -1,0 +1,8 @@
+packages to install 
+express ejs bcrypt passport passport-local express-session express-flash
+-D
+dotenv
+
+
+server
+"devStart" : "nodemon server.js"
